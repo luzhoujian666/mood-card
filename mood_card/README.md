@@ -131,19 +131,19 @@ View your app in AI Studio: https://ai.studio/apps/70043602-8bcb-4f6b-84ae-f438d
 
 ### 메인 화면
 
-![메인 화면](C:\Users\Lenovo\Downloads\images\main.png)
+![메인 화면](https://github.com/luzhoujian666/mood-card/tree/main/mood_card/main.png)
 
 ### 오늘의 기분 기록하기
 
-![기분 선택 화면](C:\Users\Lenovo\Downloads\images\mood-select.png)
+![기분 선택 화면](https://github.com/luzhoujian666/mood-card/tree/main/mood_card/mood-select.png)
 
 ### 카드 생성 전 화면
 
-![카드 생성 전 화면](C:\Users\Lenovo\Downloads\images\card-waiting.png)
+![카드 생성 전 화면](https://github.com/luzhoujian666/mood-card/tree/main/mood_card/card-waiting.png)
 
 ### 랜덤 한마디와 저장 카드 영역
 
-![저장 카드 화면](C:\Users\Lenovo\Downloads\images\saved-cards.png)
+![저장 카드 화면](https://github.com/luzhoujian666/mood-card/tree/main/mood_card/saved-cards.png)
 
 ## 데모 링크
 
