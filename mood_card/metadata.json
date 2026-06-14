@@ -1,0 +1,6 @@
+{
+  "name": "MOOD_CARD",
+  "description": "오늘의 기분을 기록하고 나만을 위한 따뜻한 위로 처방 카드를 만드는 조용하고 부드러운 감정 기록장입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

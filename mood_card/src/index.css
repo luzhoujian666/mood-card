@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-diary: "Gowun Batang", serif;
+}
+
+/* Soft analog glow & ambient gradients */
+.soft-glow-indigo {
+  box-shadow: 0 10px 30px -10px rgba(165, 180, 252, 0.4);
+}
+.soft-glow-sky {
+  box-shadow: 0 10px 30px -10px rgba(125, 211, 252, 0.4);
+}
+.soft-glow-rose {
+  box-shadow: 0 10px 30px -10px rgba(253, 164, 175, 0.4);
+}
+.soft-glow-slate {
+  box-shadow: 0 10px 30px -10px rgba(148, 163, 184, 0.3);
+}
+.soft-glow-amber {
+  box-shadow: 0 10px 30px -10px rgba(252, 211, 77, 0.4);
+}
+.soft-glow-violet {
+  box-shadow: 0 10px 30px -10px rgba(196, 181, 253, 0.4);
+}
+
+.paper-card {
+  position: relative;
+  background-size: 100% auto;
+  border-radius: 1.5rem;
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Subtle grain/paper detail using embedded SVG or styling mask */
+.paper-card::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  border-radius: 1.5rem;
+  background-image: radial-gradient(rgba(0, 0, 0, 0.015) 1px, transparent 1px);
+  background-size: 16px 16px;
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+/* Custom scrollbar to keep layout clean and elegant */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
