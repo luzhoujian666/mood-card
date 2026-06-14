@@ -127,7 +127,6 @@ View your app in AI Studio: https://ai.studio/apps/70043602-8bcb-4f6b-84ae-f438d
 ## 화면 예시
 
 아래 이미지는 실제 App 화면 예시입니다.  
-이미지 파일을 GitHub 저장소에 업로드한 뒤 경로를 수정해 주세요.
 
 ### 메인 화면
 
