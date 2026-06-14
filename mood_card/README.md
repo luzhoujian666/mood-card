@@ -131,7 +131,7 @@ View your app in AI Studio: https://ai.studio/apps/70043602-8bcb-4f6b-84ae-f438d
 
 ### 메인 화면
 
-![메인 화면](./mood_card/images/main.png)
+![메인 화면](./images/main.png)
 
 ### 오늘의 기분 기록하기
 
